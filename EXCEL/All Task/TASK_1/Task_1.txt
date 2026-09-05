@@ -1,0 +1,41 @@
+A. Ribbon
+
+
+Home Tab
+
+Purpose: Provides the most commonly used tools for formatting and editing.
+
+like Font styles, alignment, number formatting, cut/copy/paste, and cell styles.
+
+
+
+Insert Tab
+
+Purpose: Lets you add new elements into your worksheet.
+
+like Charts, tables, pictures, shapes, and PivotTables.
+
+
+
+
+Data Tab
+
+Purpose: Focuses on managing and analyzing data.
+
+like Sorting, filtering, data validation, importing external data, and using tools like “What-If Analysis.”
+
+
+
+
+B. Quick Access Toolbar (QAT)
+
+
+
+Save
+
+Instantly saves the current workbook without needing to go through menus.
+
+
+Undo
+
+Reverses the last action we performed.

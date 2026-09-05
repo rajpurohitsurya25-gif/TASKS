@@ -1,0 +1,105 @@
+1. What is the first step an analyst should take before opening a dataset to investigate flat revenue despite increased traffic?
+
+ANS :- 
+
+The first step an analyst should take is to clearly define the business question and establish the relevant metrics and time period before opening the dataset.
+
+For example
+
+What does “increased traffic” mean (website visits, sessions, users, etc.)?
+How is “revenue” being measured?
+Over what period did traffic increase while revenue remain flat?
+What baseline or previous period should be used for comparison?
+This ensures the analysis is focused and prevents the analyst from exploring the data without a clear objective.
+
+2. What specific characteristics distinguish a "Key Performance Indicator" (KPI) from a standard business metric?
+
+ANS :- 
+
+A Key Performance Indicator (KPI) is a business metric that is specifically tied to a strategic or critical business objective and used to measure performance toward that objective.
+
+The key characteristics that distinguish a KPI from a standard business metric are:
+
+Strategic relevance: A KPI directly reflects an important business goal, such as revenue growth, customer retention, or profitability.
+Actionable: It helps decision-makers understand whether action is needed and guides business decisions.
+Target-oriented: KPIs typically have a defined target, benchmark, or goal against which performance is evaluated.
+Measurable and trackable: It can be consistently measured over time to identify trends and progress.
+Limited in number: Organizations usually focus on a small set of KPIs rather than treating every available metric as a KPI.
+Performance-focused: A KPI indicates whether the business, team, or process is succeeding or falling short of expectations.
+In short: All KPIs are metrics, but not all metrics are KPIs. A metric becomes a KPI when it is important enough to directly measure progress toward a key business objective.
+
+
+3. Classify Average Order Value (AOV) and Customer Repeat Rate as either Descriptive or Diagnostic KPIs and state the questions they answer.
+
+ANS :-
+
+
+Both Average Order Value (AOV) and Customer Repeat Rate are Descriptive KPIs because they describe business performance rather than identify the reasons behind that performance.
+
+KPI	Classification	Question it answers
+Average Order Value (AOV) =     Descriptive KPI	    =    What is the average amount customers spend per order?
+Customer Repeat Rate      =	Descriptive KPI	    =   What percentage of customers make a repeat purchase?
+
+In simple terms:
+
+Descriptive KPI → “What happened?”
+Diagnostic KPI → “Why did it happen?”
+For example, AOV tells you that customers are spending less per order, but analyzing whether this is due to discounts, product mix, or fewer items per order would be diagnostic analysis.
+
+
+4. Provide one justified reason to choose Excel and one reason to choose PowerBI for analyzing Monthly Revenue.
+
+ANS :-
+
+
+Excel: Choose Excel because it is simple and flexible for calculations and quick analysis of monthly revenue, especially when the dataset is relatively small.
+Power BI: Choose Power BI because it is better for creating interactive dashboards and visualizing revenue trends, allowing users to filter and explore monthly performance easily.
+
+
+Excel is ideal for quick, flexible analysis, while Power BI is better for interactive reporting and visualization.
+
+
+5. Is "Number of Customers" a valid Diagnostic KPI for revenue trends? Justify by comparing Descriptive vs. Diagnostic logic.
+
+
+ANS :- 
+
+No. “Number of Customers” is generally a Descriptive KPI, not a Diagnostic KPI.
+
+Justification:
+
+Descriptive logic: It answers “What happened?” — for example, “How many customers did we have this month?”
+Diagnostic logic: It answers “Why did it happen?” — for example, “Did revenue fall because fewer customers purchased, or because existing customers spent less?”
+Therefore, Number of Customers can be used as an input to diagnostic analysis, but by itself it does not explain the cause of a revenue trend. A more diagnostic approach would compare customer count, purchase frequency, and AOV to determine what is driving changes in revenue.
+
+
+6. Why is treating raw data columns (like UnitPrice) as KPIs incorrect, and what transformation steps are required to create a meaningful KPI?
+
+
+ANS:-  
+
+
+Treating a raw data column such as UnitPrice as a KPI is incorrect because a raw column is simply individual-level data, not a meaningful measure of overall business performance.
+
+Why it is incorrect
+UnitPrice represents the price of an individual product or transaction.
+A KPI should summarize performance at a meaningful level, such as monthly, weekly, or customer-level performance.
+Looking at raw UnitPrice values does not directly answer an important business question such as “How is revenue performing?”
+Required transformation steps
+To turn raw data into a meaningful KPI, an analyst should:
+
+Define the business objective — e.g., measure revenue performance.
+Select relevant columns — such as UnitPrice and Quantity.
+Clean the data — handle missing, invalid, or duplicate records.
+Create the appropriate calculation — for example, Revenue = UnitPrice × Quantity.
+Aggregate the result — such as calculating total revenue by month.
+Set a target or benchmark — so performance can be evaluated.
+
+Example:
+UnitPrice → multiply by Quantity → calculate transaction revenue → sum by month → Monthly Revenue KPI.
+
+
+
+
+
+
