@@ -1,0 +1,34 @@
+OrderID,CustomerName_Phone,City,OrderDate,DeliveryStatus,OrderAmount
+1001,John Doe-9876543210,New York,2024-01-15,Delivered,250.75
+1002,Jane Smith-8765432109,Los Angeles,2024-01-17,Pending,120.50
+1003,Michael Brown-7654321098,Chicago,2024-01-20,Delivered,560.00
+1004,Emily Davis-6543210987,Houston,2024-01-22,Cancelled,300.25
+1005,Chris Wilson-5432109876,Phoenix,2024-01-25,Delivered,150.00
+1006,Anna Johnson-4321098765,Philadelphia,2024-01-28,Delivered,420.10
+1007,David Lee-3210987654,San Antonio,2024-02-01,Pending,200.00
+1008,Sarah Kim-2109876543,San Diego,2024-02-03,Delivered,350.00
+1009,Robert Martinez-1098765432,Dallas,2024-02-05,Delivered,275.50
+1010,Linda Taylor-9988776655,San Jose,2024-02-07,Delivered,600.00
+1011,George Clark-8877665544,Austin,2024-02-10,Delivered,180.00
+1012,Nancy Allen-7766554433,Jacksonville,2024-02-12,Pending,95.75
+1013,Paul Walker-6655443322,Fort Worth,2024-02-14,Delivered,720.00
+1014,Laura Scott-5544332211,Columbus,2024-02-16,Delivered,310.25
+1015,Kevin Harris-4433221100,Charlotte,2024-02-18,Cancelled,250.00
+1016,Olivia White-3322110099,Indianapolis,2024-02-20,Delivered,410.50
+1017,Daniel Young-2211009988,San Francisco,2024-02-22,Delivered,530.00
+1018,Grace Hall-1100998877,Seattle,2024-02-24,Pending,145.00
+1019,Henry King-0099887766,Denver,2024-02-26,Delivered,390.75
+1020,Maria Lopez-9988776654,Washington DC,2024-02-28,Delivered,275.00
+1021,Tom Baker-8877665543,Boston,2024-03-02,Delivered,640.00
+1022,Amy Adams-7766554432,Detroit,2024-03-04,Pending,210.00
+1023,Peter Evans-6655443321,Nashville,2024-03-06,Delivered,355.25
+1024,Sophia Carter-5544332210,Memphis,2024-03-08,Delivered,480.00
+1025,Jack Turner-4433221199,Baltimore,2024-03-10,Cancelled,125.00
+1026,Megan Hill-3322110088,Portland,2024-03-12,Delivered,510.50
+1027,Samuel Green-2211009977,Oklahoma City,2024-03-14,Delivered,295.00
+1028,Chloe Wright-1100998866,Las Vegas,2024-03-16,Pending,175.00
+1029,Anthony Hall-0099887755,Milwaukee,2024-03-18,Delivered,420.75
+1030,Isabella Moore-9988776644,Albuquerque,2024-03-20,Delivered,310.00
+1002,Jane Smith-8765432109,Los Angeles,2024-01-17,Pending,120.50
+1015,Kevin Harris-4433221100,Charlotte,2024-02-18,Cancelled,250.00
+, , , , , 
