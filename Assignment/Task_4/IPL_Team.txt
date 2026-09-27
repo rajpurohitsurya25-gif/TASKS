@@ -1,0 +1,21 @@
+Match_ID,Team 1,Team 2,Winner,Venue,Date
+1,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Wankhede Stadium,2024-03-23
+2,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Feroz Shah Kotla,2024-03-24
+3,Sunrisers Hyderabad,Royal Challengers Bangalore,,Rajiv Gandhi Stadium,2024-03-25
+4,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Sawai Mansingh Stadium,2024-03-26
+5,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Chepauk Stadium,2024-03-27
+6,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Eden Gardens,2024-03-28
+7,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Chinnaswamy Stadium,2024-03-29
+8,Punjab Kings,Rajasthan Royals,Punjab Kings,IS Bindra Stadium,2024-03-30
+9,Mumbai Indians,Delhi Capitals,Mumbai Indians,Wankhede Stadium,2024-03-31
+10,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Chepauk Stadium,2024-04-01
+11,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Rajiv Gandhi Stadium,2024-04-02
+12,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Chinnaswamy Stadium,2024-04-03
+13,Delhi Capitals,Mumbai Indians,Delhi Capitals,Feroz Shah Kotla,2024-04-04
+14,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,2024-04-05
+15,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Sawai Mansingh Stadium,2024-04-06
+16,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,IS Bindra Stadium,2024-04-07
+17,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Wankhede Stadium,2024-04-08
+18,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Chepauk Stadium,2024-04-09
+19,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Rajiv Gandhi Stadium,2024-04-10
+20,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Chinnaswamy Stadium,2024-04-11
